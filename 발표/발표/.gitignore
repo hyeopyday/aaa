@@ -1,0 +1,32 @@
+# 빌드 파일
+build/
+*.exe
+*.o
+*.obj
+*.out
+
+# 디버그 파일
+*.pdb
+*.ilk
+
+# IDE 설정
+.vscode/
+.vs/
+*.code-workspace
+
+# 임시 파일
+*.tmp
+*.log
+*~
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac
+.DS_Store
+
+# 컴파일러 생성 파일
+*.a
+*.so
+*.dll
